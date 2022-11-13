@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-reads-app/static/css/main.8941ba24.chunk.css",
-    "main.js": "/my-reads-app/static/js/main.c5015b80.chunk.js",
-    "main.js.map": "/my-reads-app/static/js/main.c5015b80.chunk.js.map",
+    "main.js": "/my-reads-app/static/js/main.0dbef375.chunk.js",
+    "main.js.map": "/my-reads-app/static/js/main.0dbef375.chunk.js.map",
     "runtime-main.js": "/my-reads-app/static/js/runtime-main.e54d3a4a.js",
     "runtime-main.js.map": "/my-reads-app/static/js/runtime-main.e54d3a4a.js.map",
     "static/css/2.4659568d.chunk.css": "/my-reads-app/static/css/2.4659568d.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.4659568d.chunk.css",
     "static/js/2.d2c64d8d.chunk.js",
     "static/css/main.8941ba24.chunk.css",
-    "static/js/main.c5015b80.chunk.js"
+    "static/js/main.0dbef375.chunk.js"
   ]
 }
