@@ -7,7 +7,7 @@ import NotFound from './Components/NotFound';
 export default function App() {
   return (
     <>
-    <Router>
+    <Router basename="/my-reads-app">
     <MediaContextProvider>
       <Routes>
         <Route path='/' element={<Home/>}/>
